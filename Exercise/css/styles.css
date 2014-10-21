@@ -2,6 +2,14 @@
 	Global 
 ***************/
 
+body {
+	background: url('../img/bg.png');
+}
+
+img {
+	width: 200px
+}
+
 /* 	Paragraph
 	line-height: 24px; 
 */
@@ -10,7 +18,9 @@
 /***************
 	Typography
 ***************/
-
+blockquote {
+	font-family: 'Playfair Display', serif;
+}
 /*	Paragraph Text Links
 	color: rgb(13, 202, 250);
 	border-bottom: 1px solid #fff;
